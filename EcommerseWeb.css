@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+/* Styling for service section */
+
+.service-section{
+    background-color: antiquewhite;
+}
+
+.service-sec-main-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bolder;
+    font-size: 55px;
+}
+
+.service-sec-para{
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 23px;
+}
+
+.fast-dilivery{
+    background-color: whitesmoke;
+    border-radius: 12px;
+    padding: 23px;
+}
+
+.fast-title{
+    color: #1f2933;
+    font-family: "Roboto";
+}
+
+.fast-discription{
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: larger;
+}
+
+/* Styling of product section */
+.product-scetion{
+    background-color: azure;
+}
+
+.product-sec-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.product1{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    height: 350px;
+    border-radius: 23px;
+}
+
+.product1-title{
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+}
+
+.product1-discription{
+    color: white;
+    font-family: "Roboto";
+}
+
+.custom-btn1{
+    background-color: white;
+    color: #ff9f00;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    border-radius: 34px;
+}
+
+.custom-btn2{
+    background-color: transparent;
+    color: #323f4b;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #1f2933;
+}
+
+.modal-body-text{
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.product2{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    height: 350px;
+    border-radius: 23px;
+}
+
+.all-offers{
+    color: #ff9f00;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+
+/* Styling for Special offer section */
+
+.special-offer-section{
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+
+.special-offer-main-heading{
+    color: #ad2167;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+.special-off-discription{
+    color: white;
+    font-family: "Roboto";
+}
+
+.offers{
+    font-weight: bolder;
+}
+
+
+/* Styling for tranding blog section */
+
+.tranding-blog-section{
+    background-color: aliceblue;
+}
+
+.tranding-blog-main-heading{
+    color: #183b56;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.blog-card{
+    border-radius: 13px;
+}
+
+.text-styling{
+    font-size: 12px;
+    color: #959ead;
+    font-family: "Roboto";
+}
+
+.blog-card-title{
+    color: 183b56;
+    font-size: 34px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.blog-card-discription{
+    font-size: 17px;
+    color: #959ead;
+    font-family: "Roboto";
+}
+
+
+/* Styling for Explore Deals & Offers */
+
+.Explore-deals{
+    background-color: #f5f7fa;
+}
+
+.explore-deals-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.ex-de-card{
+    border-radius: 23px;
+    background-color: white;
+}
+
+.explore-deal-card-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 37px;
+}
+
+.card-img1{
+    border-radius: 32px;
+    width: 100%;
+}
+
+.card-img-title{
+    text-align: center;
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 23px;
+}
+
+
+/* Styling for Contact Us */
+
+.contact-Us-sec{
+    background-color: #f5f7fa;
+}
+
+.contact-sec-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 37px;
+}
+
+.custom-btn3{
+    background-color: transparent;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #ff9f00;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #ff9f00;
+}
+
+
+
+/* styling for Footer section */
+
+.Footer-section{
+    background-color: #0d2436;
+}
+
+
+.icons{
+    margin: 4px;
+    font-size: 20px;
+    color: #5a7184;
+    padding: 10px;
+    background-color: #152c3e;
+    border-radius: 23px;
+}
+
+.address{
+    color: #5a7184;
+}
+
+.gt-know{
+    color: #5a7184;
+    text-align: left;
+    margin-right: auto;
+}
+
+.hr{
+    height:1px;
+    border-width:0;
+    color:#5a7184;
+    background-color:#5a7184;
+    text-align: center;
+}
+
+.copyright{
+    color: #5a7184;
+}
