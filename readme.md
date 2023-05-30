@@ -19,7 +19,7 @@ This project is a responsive web page that adapts to different screen sizes and 
 To view the responsive web page, follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in a web browser.
+2. Open the `html` file in a web browser.
 3. Resize the browser window or use browser developer tools to see how the layout adjusts to different screen sizes.
 
 Alternatively, you can access the live version of the responsive web page at [https://ecommweb1234.ccbp.tech/](https://ecommweb1234.ccbp.tech/).
